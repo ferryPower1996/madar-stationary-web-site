@@ -1,0 +1,25 @@
+
+.ads{
+    width: 10%;
+    height: 190px;
+    background-image: url('https://tablighat98.ir/wp-content/uploads/2019/10/%D9%81%D8%B1%D9%85%D9%88%D9%84-%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%D8%A7%D8%AA-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%DB%8C.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    border: solid black;}
+.logo{
+    width: 10%;
+    background-image: url('http://localhost:3000/static/media/photo_2020-09-09_13-24-01.f1a3a8d97c942813d49b.jpg');
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 190px;
+    border: solid black;}
+.ads_and_logo{
+    height: 190px;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    text-align: center;
+}

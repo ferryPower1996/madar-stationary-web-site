@@ -1,0 +1,57 @@
+.footer{
+    display: flex;
+}
+.footerleft{
+    width: 50%;
+    border: solid;
+    display: flex;
+    justify-content: center;
+}
+.footerright{
+    width: 50%;
+    border: solid;
+    display: flex;
+    justify-content: right;
+    direction: rtl;
+}
+.sochialmedias{
+    width: 250px;
+    height: 250px;
+    border: solid;
+    border-radius: 15px;
+    text-align: center;
+}
+.sochialmedias img{
+    width: 150px;
+    height: 150px;
+}
+.accounts{
+    background-color: lightgray;
+    border-radius: 15px;
+}
+.accounts i{
+    margin-right: 10px;
+    font-size: 35px;
+    cursor: pointer;
+}
+.fa-facebook{
+    color: #4867aa;
+}
+.fa-youtube{
+    color: #ff0000;
+}
+.fa-telegram{
+    color: #27a4e3;
+}
+.fa-instagram{
+    color: #f61b4c;
+}
+.detiles h2{
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}

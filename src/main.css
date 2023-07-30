@@ -1,0 +1,23 @@
+.main{
+    display: flex;
+    justify-content: center;
+}
+.products{
+    display: flex;
+    justify-content: center;
+}
+.product{
+    display: none;
+}
+.active{
+    display: block;
+    width: 450px;
+    height: 450px;
+    border: solid;
+}
+.products i{
+    font-size: 35px;
+    cursor: pointer;
+    position: relative;
+    top: 220px;
+}
