@@ -1,6 +1,10 @@
 .main{
     display: flex;
     justify-content: center;
+    background-image: url('./164991717764925374.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .products{
     display: flex;
@@ -20,4 +24,5 @@
     cursor: pointer;
     position: relative;
     top: 220px;
+    color: white;
 }
