@@ -625,7 +625,7 @@ const Timer5 = ({trueandfalse,lable,handleMouseEnter}) => {
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 2 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://whatson.ae/wp-content/uploads/2016/08/img-world-of-adventure-9.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/b790001a4c28f05aa4b11b94e005adb5fdef780f_1633017567.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
