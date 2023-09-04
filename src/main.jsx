@@ -12,7 +12,7 @@ const Timer = ({trueandfalse,lable,handleMouseEnter}) => {
               }
               return item + 1;
             });
-          }, 1000);
+          }, 5000);
           
           return () => {
             clearInterval(interval);
@@ -40,89 +40,103 @@ const Timer = ({trueandfalse,lable,handleMouseEnter}) => {
             <i onClick={handlePrevSlide} class="fa fa-chevron-left"></i>
 
     <div style={{display:'flex'}} onMouseEnter={onMouse}onMouseLeave={onMouse}>
-    <div 
+    <div
             // onMouseEnter={handleMouseEnter} 
             //      onMouseLeave={handleMouseEnter}
         className={slideIndex === 0 ? 'active' : ''}
         style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/112001999.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }}  ></div>
+            
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 0 ? 'active' : ''}
         style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/112002375.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }}  ></div>
+            
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 0 ? 'active' : ''}
         style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/112002186.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }}  ></div>
+            
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 1 ? 'active' : ''}
         style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/112052505.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }}  ></div>
+            
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 1 ? 'active' : ''}
         style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/112012136.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }}  ></div>
+            
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 1 ? 'active' : ''}
         style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/112001900.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }}  ></div>
+            
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 2 ? 'active' : ''}
         style={{ backgroundImage:'url(https://oulikshop.com/wp-content/uploads/2022/10/IMG_20221011_184404_633.webp)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }}  ></div>
+            
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 2 ? 'active' : ''}
         style={{ backgroundImage:'url(https://farhangst.ir/wp-content/uploads/2022/07/Untitled-1-scaled-e1657915111789.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }}  ></div>
+            
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 2 ? 'active' : ''}
         style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/119267723.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }}  ></div>
+            
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 3 ? 'active' : ''}
         style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/dc91002d9e315d64f86e5006c44dd3b4268be32c_1642065964.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }}></div>
+            
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 3 ? 'active' : ''}
         style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/0a1928f498b4fe6cf043521bbc3f563cdc11aa4a_1630421209.jpg?x-oss-process=image/resize,h_1600/quality,q_80)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }}></div>
+            
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 3 ? 'active' : ''}
         style={{ backgroundImage:'url(https://statics.basalam.com/public-7/users/AXboa/08-04/XnbITm1U7qYu3Tk46vMIVicvuDPnkk5a9W32yHZ899IJ5bpx7n.jpg_512X512X70.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }}></div>
+            
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 4 ? 'active' : ''}
         style={{ backgroundImage:'url(https://gh-s3.behtarino.com/media/images/2023-07-02/wJ8IwFtG35.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }}></div>
+            
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 4 ? 'active' : ''}
         style={{ backgroundImage:'url(https://statics.basalam.com/public-8/users/AXboa/11-15/fTBD7O4c4r2MLIRo2TvMX8VSVkON55OIcrhIa2LpMMk6GKBhyp.jpg_512X512X70.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }}></div>
+            
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
@@ -145,7 +159,7 @@ const Timer2 = ({trueandfalse,lable,handleMouseEnter}) => {
               }
               return item + 1;
             });
-          }, 1000);
+          }, 5000);
           
           return () => {
             clearInterval(interval);
@@ -279,7 +293,7 @@ const Timer3 = ({trueandfalse,lable,handleMouseEnter}) => {
               }
               return item + 1;
             });
-          }, 1000);
+          }, 5000);
           
           return () => {
             clearInterval(interval);
@@ -412,7 +426,7 @@ const Timer4 = ({trueandfalse,lable,handleMouseEnter}) => {
               }
               return item + 1;
             });
-          }, 1000);
+          }, 5000);
           
           return () => {
             clearInterval(interval);
@@ -545,7 +559,7 @@ const Timer5 = ({trueandfalse,lable,handleMouseEnter}) => {
               }
               return item + 1;
             });
-          }, 1000);
+          }, 5000);
           
           return () => {
             clearInterval(interval);
