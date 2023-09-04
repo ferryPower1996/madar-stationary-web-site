@@ -190,7 +190,7 @@ const Timer2 = ({trueandfalse,lable,handleMouseEnter}) => {
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 0 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://www.everysteph.com/wp-content/uploads/2022/12/Hulk-IMG-Worlds-of-Adventure.jpeg.webphttps://dkstatics-public.digikala.com/digikala-products/1e5580d34922b2d0971a6d9b0b53f28b48fbb7d9_1670839193.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }}  ></div>
+        style={{ backgroundImage:'url(https://www.papcoiran.com/19299-superlarge_default/%D8%AF%D9%81%D8%AA%D8%B1-%D9%88%D8%B2%DB%8C%D8%B1%DB%8C-%D8%AC%D9%84%D8%AF-%D8%B3%D8%AE%D8%AA-100-%D8%A8%D8%B1%DA%AF.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }}  ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
@@ -256,13 +256,13 @@ const Timer2 = ({trueandfalse,lable,handleMouseEnter}) => {
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 4 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://imagevars.gulfnews.com/2016/8/22/1_16a08234f1c.1883456_1437924656_16a08234f1c_medium.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/1e5580d34922b2d0971a6d9b0b53f28b48fbb7d9_1670839193.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 4 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://imagevars.gulfnews.com/2016/8/22/1_16a08234f1c.1883456_1437924656_16a08234f1c_medium.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://www.papcoiran.com/17984-superlarge_default/%D8%AF%D9%81%D8%AA%D8%B1-%D9%88%D8%B2%DB%8C%D8%B1%DB%8C-%D8%AC%D9%84%D8%AF-%D8%B3%D8%AE%D8%AA-100-%D8%A8%D8%B1%DA%AF.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }} ></div>
     </div>
     <i onClick={handleNextSlide} class="fa fa-chevron-right"></i>
     </> );
@@ -311,91 +311,91 @@ const Timer3 = ({trueandfalse,lable,handleMouseEnter}) => {
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 0 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://www.everysteph.com/wp-content/uploads/2022/12/Hulk-IMG-Worlds-of-Adventure.jpeg.webp)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://floracademy.com/wp-content/uploads/2022/07/Conte-A-Paris-Pierre-Noire-Pencil.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 0 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://www.everysteph.com/wp-content/uploads/2022/12/Hulk-IMG-Worlds-of-Adventure.jpeg.webp)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://storage1.torob.com/backend-api/base/images/mI/8S/mI8S-vzCewpW0O_j.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 0 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://www.everysteph.com/wp-content/uploads/2022/12/Hulk-IMG-Worlds-of-Adventure.jpeg.webp)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/9cbc85b88ebdadbdfe1c35349742757212316086_1607959947.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 1 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://platinumlist.net/guide/wp-content/uploads/2023/03/8359_img_worlds_of_adventure-big1613913137.jpg-1024x683.webp)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://artlandshop.ir/wp-content/uploads/2021/06/11-2.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 1 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://platinumlist.net/guide/wp-content/uploads/2023/03/8359_img_worlds_of_adventure-big1613913137.jpg-1024x683.webp)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/e66a8fcaa7485aebfdce2be00870b7298ab56706_1621362112.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 1 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://platinumlist.net/guide/wp-content/uploads/2023/03/8359_img_worlds_of_adventure-big1613913137.jpg-1024x683.webp)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/121558306.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 2 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://whatson.ae/wp-content/uploads/2016/08/img-world-of-adventure-9.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://aryaartist.com/uploads/2022/11/500x500q100-B6.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 2 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://whatson.ae/wp-content/uploads/2016/08/img-world-of-adventure-9.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/1294531.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 2 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://whatson.ae/wp-content/uploads/2016/08/img-world-of-adventure-9.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://beraito.com/wp-content/uploads/2021/07/194.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 3 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://www.imgacademy.com/sites/default/files/legacyhotel.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://beraito.com/wp-content/uploads/2021/07/217.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 3 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://www.imgacademy.com/sites/default/files/legacyhotel.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://amouzco.com/wp-content/uploads/2021/04/%D9%85%D8%AF%D8%A7%D8%AF-%DA%A9%D9%86%D8%AA%D9%87-%D8%B3%D9%81%DB%8C%D8%AF-%DA%A9%D8%B1%D8%AA%D8%A7%DA%A9%D8%A7%D9%84%D8%B1-%D9%85%D8%AF%D9%84-%DA%A9%D9%86%D8%AA%D9%87-%DA%A9%D8%AF-46151-2.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 3 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://www.imgacademy.com/sites/default/files/legacyhotel.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/4569000.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 4 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://imagevars.gulfnews.com/2016/8/22/1_16a08234f1c.1883456_1437924656_16a08234f1c_medium.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/2583881.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 4 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://imagevars.gulfnews.com/2016/8/22/1_16a08234f1c.1883456_1437924656_16a08234f1c_medium.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/4305327.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 4 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://imagevars.gulfnews.com/2016/8/22/1_16a08234f1c.1883456_1437924656_16a08234f1c_medium.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/10f380f3440b7b4d735da702a396b519ac100bbd_1635949058.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }} ></div>
     </div>
     <i onClick={handleNextSlide} class="fa fa-chevron-right"></i>
     </> );
@@ -577,49 +577,49 @@ const Timer5 = ({trueandfalse,lable,handleMouseEnter}) => {
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 0 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://www.everysteph.com/wp-content/uploads/2022/12/Hulk-IMG-Worlds-of-Adventure.jpeg.webp)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/112092747.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 0 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://www.everysteph.com/wp-content/uploads/2022/12/Hulk-IMG-Worlds-of-Adventure.jpeg.webp)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://aryacompany.ir/wp-content/uploads/2020/08/%D9%BE%D8%A7%D8%B2%D9%84-4%D8%A8%D8%B9%D8%AF%DB%8C-%D8%A2%D8%B1%DB%8C%D8%A7-9012.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 0 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://www.everysteph.com/wp-content/uploads/2022/12/Hulk-IMG-Worlds-of-Adventure.jpeg.webp)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://statics.basalam.com/public-3/users/gqwWx/06-02/JzLGCQ2BCQ6megOi5coE6JsQUM5t2hFrAXMq0x03gPp5ITn8mc.jpg_512X512X70.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 1 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://platinumlist.net/guide/wp-content/uploads/2023/03/8359_img_worlds_of_adventure-big1613913137.jpg-1024x683.webp)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://aryaland.ir/uploads/products/%D8%AE%D9%85%DB%8C%D8%B1-%D8%A8%D8%A7%D8%B2%DB%8C-%DB%B1%DB%B2-%D8%B1%D9%86%DA%AF-%D8%A2%D8%B1%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-%D8%A2%D9%88%DB%8C%D8%B2-%D9%88%DA%A9%DB%8C%D9%88%D9%85%DB%8C-%D8%A8%D8%A7-%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-1.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 1 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://platinumlist.net/guide/wp-content/uploads/2023/03/8359_img_worlds_of_adventure-big1613913137.jpg-1024x683.webp)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://aryaland.ir/uploads/2023/01/%D9%88%D8%A7%D8%AA%D8%B1-%D8%A7%D8%B3%D9%84%D8%A7%DB%8C%D9%85-%D8%AE%D8%B1%D8%B3%DB%8C-500-%DA%AF%D8%B1%D9%85%DB%8C-%D8%A7%D9%88%D9%88%D8%AF%DB%8C-2-.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 1 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://platinumlist.net/guide/wp-content/uploads/2023/03/8359_img_worlds_of_adventure-big1613913137.jpg-1024x683.webp)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/120405570.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 2 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://whatson.ae/wp-content/uploads/2016/08/img-world-of-adventure-9.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/112453680.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 2 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://whatson.ae/wp-content/uploads/2016/08/img-world-of-adventure-9.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://aradbook.ir/wp-content/uploads/2020/04/punch.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }} ></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
