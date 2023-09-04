@@ -172,72 +172,122 @@
 // }
 
 // export default Tt;
-import { useState, useEffect } from 'react';
+// import { useState, useEffect } from 'react';
 
-const TimerBox = ({ isActive, handleToggle, label }) => {
-  const colors = ['black', 'orange', 'brown'];
-  const [colorIndex, setColorIndex] = useState(0);
+// const TimerBox = ({ isActive, handleToggle, label }) => {
+//   const colors = ['black', 'orange', 'brown'];
+//   const [colorIndex, setColorIndex] = useState(0);
   
-  useEffect(() => {
-    if (isActive) {
-      const interval = setInterval(() => {
-        setColorIndex((prevColorIndex) => {
-          if (prevColorIndex === colors.length - 1) {
-            return 0;
-          }
-          return prevColorIndex + 1;
-        });
-      }, 1000);
+//   useEffect(() => {
+//     if (isActive) {
+//       const interval = setInterval(() => {
+//         setColorIndex((prevColorIndex) => {
+//           if (prevColorIndex === colors.length - 1) {
+//             return 0;
+//           }
+//           return prevColorIndex + 1;
+//         });
+//       }, 1000);
       
-      return () => {
-        clearInterval(interval);
-      };
-    }
-  }, [isActive, colors.length]);
+//       return () => {
+//         clearInterval(interval);
+//       };
+//     }
+//   }, [isActive, colors.length]);
   
-  const handleMouseEnter = () => {
-    handleToggle(label);
-  };
+//   const handleMouseEnter = () => {
+//     handleToggle(label);
+//   };
   
-  return (
-    <div
-      style={{
-        border: `2px solid ${colors[colorIndex]}`,
-        margin: '10px',
-        padding: '10px',
-      }}
-      onMouseEnter={handleMouseEnter}
-      onMouseLeave={handleMouseEnter}
-    >
-      {label}
-    </div>
-  );
-};
+//   return (
+//     <div
+//       style={{
+//         border: `2px solid ${colors[colorIndex]}`,
+//         margin: '10px',
+//         padding: '10px',
+//       }}
+//       onMouseEnter={handleMouseEnter}
+//       onMouseLeave={handleMouseEnter}
+//     >
+//       {label}
+//     </div>
+//   );
+// };
+
+// const Tt = () => {
+//   const [isActiveBox1, setIsActiveBox1] = useState(true);
+//   const [isActiveBox2, setIsActiveBox2] = useState(true);
+  
+//   const handleToggle = (label) => {
+//     if (label === 'Box 1') {
+//       setIsActiveBox1(!isActiveBox1);
+//     } else if (label === 'Box 2') {
+//       setIsActiveBox2(!isActiveBox2);
+//     }
+//   };
+  
+//   return (
+//     <div>
+//       <TimerBox
+//         isActive={isActiveBox1}
+//         handleToggle={handleToggle}
+//         label="Box 1"
+//       />
+//       <TimerBox
+//         isActive={isActiveBox2}
+//         handleToggle={handleToggle}
+//         label="Box 2"
+//       />
+//     </div>
+//   );
+// };
+
+// export default Tt;
+
+
+import React, { useState, useEffect } from 'react';
 
 const Tt = () => {
-  const [isActiveBox1, setIsActiveBox1] = useState(true);
-  const [isActiveBox2, setIsActiveBox2] = useState(true);
-  
-  const handleToggle = (label) => {
-    if (label === 'Box 1') {
-      setIsActiveBox1(!isActiveBox1);
-    } else if (label === 'Box 2') {
-      setIsActiveBox2(!isActiveBox2);
-    }
+  const [color, setColor] = useState('red');
+  const [timerRunning, setTimerRunning] = useState(true);
+
+  const colors = ['red', 'green', 'blue', 'orange'];
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      if (timerRunning) {
+        setColor(prevColor => {
+          const currentIndex = colors.indexOf(prevColor);
+          const nextIndex = (currentIndex + 1) % colors.length;
+          return colors[nextIndex];
+        });
+      }
+    }, 1000);
+
+    return () => {
+      clearInterval(interval);
+    };
+  }, [timerRunning]);
+
+  const handleMouseEnter = () => {
+    setTimerRunning(false);
   };
-  
+
+  const handleMouseLeave = () => {
+    setTimerRunning(true);
+  };
+
   return (
     <div>
-      <TimerBox
-        isActive={isActiveBox1}
-        handleToggle={handleToggle}
-        label="Box 1"
+      <div
+        style={{ backgroundColor: color, width: '100px', height: '100px' }}
+        onMouseEnter={handleMouseEnter}
+        onMouseLeave={handleMouseLeave}
       />
-      <TimerBox
-        isActive={isActiveBox2}
-        handleToggle={handleToggle}
-        label="Box 2"
-      />
+      <div style={{ backgroundColor: color, width: '100px', height: '100px' }} />
+      <div style={{ backgroundColor: color, width: '100px', height: '100px' }}
+/>
+      <div style={{ backgroundColor: color, width: '100px', height: '100px' }} />
     </div>
   );
 };

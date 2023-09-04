@@ -631,37 +631,37 @@ const Timer5 = ({trueandfalse,lable,handleMouseEnter}) => {
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 3 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://www.imgacademy.com/sites/default/files/legacyhotel.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }}></div>
+        style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/119885487.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }}></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 3 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://www.imgacademy.com/sites/default/files/legacyhotel.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }}></div>
+        style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/2691586.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }}></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 3 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://www.imgacademy.com/sites/default/files/legacyhotel.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }}></div>
+        style={{ backgroundImage:'url(https://hyperzi.ir/wp-content/uploads/2020/12/Atena-20-piece-circular-puzzle-14.jpeg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }}></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 4 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://imagevars.gulfnews.com/2016/8/22/1_16a08234f1c.1883456_1437924656_16a08234f1c_medium.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }}></div>
+        style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/121791091.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }}></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 4 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://imagevars.gulfnews.com/2016/8/22/1_16a08234f1c.1883456_1437924656_16a08234f1c_medium.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }}></div>
+        style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/1633519.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }}></div>
             <div 
             // onMouseEnter={handleMouseEnter}
             //      onMouseLeave={handleMouseEnter}
   
         className={slideIndex === 4 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://imagevars.gulfnews.com/2016/8/22/1_16a08234f1c.1883456_1437924656_16a08234f1c_medium.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }}></div>
+        style={{ backgroundImage:'url(https://shazdehkoochulo.com/media/catalog/product/md_146e8_%D8%A8%D8%B1%D8%AC_%D9%87%DB%8C%D8%AC%D8%A7%D9%86.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }}></div>
     </div>
     <i onClick={handleNextSlide} class="fa fa-chevron-right"></i>
     </> );
