@@ -18,6 +18,8 @@
     width: 450px;
     height: 450px;
     border: solid;
+    animation-name: fadeIn;
+    animation-duration: 5s;
 }
 .products i{
     font-size: 35px;
@@ -26,3 +28,40 @@
     top: 220px;
     color: rgb(63, 63, 63);
 }
+
+
+
+@-webkit-keyframes fadeIn {
+    from {
+    opacity: 0;
+    }
+    
+    to {
+    opacity: 1;
+    }
+    }
+    @keyframes fadeIn {
+    from {
+    opacity: 0;
+    }
+    
+    to {
+    opacity: 1;
+    }
+    }
+    .animate__fadeIn {
+    -webkit-animation-name: fadeIn;
+    animation-name: fadeIn;
+    }
+    .negative{
+        background-color: rgb(255, 129, 126);
+    }
+    .negative:hover{
+        background-color: red;
+    }
+    .positive{
+        background-color: rgb(144, 238, 144);
+    }
+    .positive:hover{
+        background-color: green;
+    }
