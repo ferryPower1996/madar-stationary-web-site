@@ -7,6 +7,7 @@
 .header_left{
     width: 50%;
     margin-top: 15px;
+    z-index: 1;
 }
 .header_left i{
     margin: 5px;
@@ -27,6 +28,7 @@ a{
     width: 50%;
     text-align: right;
     margin-top: 15px;
+    z-index: 1;
 }
 .header_right i{
     margin: 5px;
@@ -34,10 +36,19 @@ a{
     border-radius: 25px;
     padding: 10px;
     transition-duration: 0.5s;
+    float: right;
 }
 .header_right i:hover{
     background-color: rgb(255, 201, 180);
 }
 @media screen and (max-width:1400px){
     
+}
+.header_right i i{
+    display: none;
+    width:fit-content;
+
+}
+.header_right i:hover i{
+    display: flex;
 }
