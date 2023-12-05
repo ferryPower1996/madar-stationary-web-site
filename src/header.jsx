@@ -31,13 +31,13 @@ const Header = () => {
         <i><a href="#">رنگ آمیزی</a></i>
         <i><a href="#">آموزش نقاشی</a></i>
         <i><a href="#">داستان</a></i>
-        <i><a href="#"></a></i>
+        <i><a href="#">آموزشی</a></i>
         </i>
         <i><a href="#">اسباب بازی</a>
-        <i><a href="#"></a></i>
-        <i><a href="#"></a></i>
-        <i><a href="#"></a></i>
-        <i><a href="#"></a></i>
+        <i><a href="#">بازی فکری</a></i>
+        <i><a href="#">آموزشی</a></i>
+        <i><a href="#">ورزشی</a></i>
+        <i><a href="#">پازل</a></i>
         </i>
         </div>
     </div>

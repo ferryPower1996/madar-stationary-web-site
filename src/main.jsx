@@ -415,62 +415,62 @@ const Timer4 = ({trueandfalse,lable,handleMouseEnter}) => {
     <div 
         
         className={slideIndex === 0 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://www.everysteph.com/wp-content/uploads/2022/12/Hulk-IMG-Worlds-of-Adventure.jpeg.webp)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://image.torob.com/base/images/hQ/V9/hQV9JvpTIrPwXPjQ.jpg)',backgroundSize:'450px 450px',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }} ></div>
             <div 
   
         className={slideIndex === 0 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://www.everysteph.com/wp-content/uploads/2022/12/Hulk-IMG-Worlds-of-Adventure.jpeg.webp)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://www.bitabook.ir/wp-content/uploads/2020/02/IMG_20200202_193135_363.jpg)',backgroundSize:'450px 450px',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }} ></div>
             <div 
   
         className={slideIndex === 0 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://www.everysteph.com/wp-content/uploads/2022/12/Hulk-IMG-Worlds-of-Adventure.jpeg.webp)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://serajbookshop.com/wp-content/uploads/2020/08/paint-geometric-shapes.jpg)',backgroundSize:'450px 450px',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }} ></div>
             <div 
   
         className={slideIndex === 1 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://platinumlist.net/guide/wp-content/uploads/2023/03/8359_img_worlds_of_adventure-big1613913137.jpg-1024x683.webp)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://www.iranketab.ir/Images/ProductImages/12831bbc130a4fe09e946ba4a1de3b20.jpg)',backgroundSize:'450px 450px',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }} ></div>
             <div 
   
         className={slideIndex === 1 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://platinumlist.net/guide/wp-content/uploads/2023/03/8359_img_worlds_of_adventure-big1613913137.jpg-1024x683.webp)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/1678799.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90)',backgroundSize:'450px 450px',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }} ></div>
             <div 
   
         className={slideIndex === 1 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://platinumlist.net/guide/wp-content/uploads/2023/03/8359_img_worlds_of_adventure-big1613913137.jpg-1024x683.webp)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://image.torob.com/base/images/-w/12/-w12YGQSZp1ogKqF.jpg)',backgroundSize:'450px 450px',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }} ></div>
             <div 
   
         className={slideIndex === 2 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://whatson.ae/wp-content/uploads/2016/08/img-world-of-adventure-9.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/7131a4c28a851c8323f4d79f850414c0da73d067_1701174968.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90)',backgroundSize:'450px 450px',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }} ></div>
             <div 
   
         className={slideIndex === 2 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://whatson.ae/wp-content/uploads/2016/08/img-world-of-adventure-9.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://image.torob.com/base/images/Am/76/Am768cWvS4fxUWkg.jpg_/560x560.webp)',backgroundSize:'450px 450px',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }} ></div>
             <div 
   
         className={slideIndex === 2 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://whatson.ae/wp-content/uploads/2016/08/img-world-of-adventure-9.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }} ></div>
+        style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/659b9ff94af7aedcee80923a880ee5a3a58d4552_1604922931.jpg?x-oss-process=image/resize,h_1600/quality,q_80)',backgroundSize:'450px 450px',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }} ></div>
             <div   
         className={slideIndex === 3 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://www.imgacademy.com/sites/default/files/legacyhotel.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }}></div>
+        style={{ backgroundImage:'url(https://pezhano.com/Panel/Uploads/3/1/1/5b119e5f-92cd-4332-827f-f00809e6c2b3.jpg)',backgroundSize:'450px 450px',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }}></div>
             <div 
   
         className={slideIndex === 3 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://www.imgacademy.com/sites/default/files/legacyhotel.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }}></div>
+        style={{ backgroundImage:'url(https://alaeipub.ir/wp-content/uploads/%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%BE%D8%AA-%D9%BE%D8%B3%D8%AA%DA%86%DB%8C-1-scaled.jpg)',backgroundSize:'450px 450px',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }}></div>
             <div 
   
         className={slideIndex === 3 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://www.imgacademy.com/sites/default/files/legacyhotel.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }}></div>
+        style={{ backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/121127939.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'450px 450px',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }}></div>
             <div 
   
         className={slideIndex === 4 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://imagevars.gulfnews.com/2016/8/22/1_16a08234f1c.1883456_1437924656_16a08234f1c_medium.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }}></div>
+        style={{ backgroundImage:'url(https://image.torob.com/base/images/Fg/MM/FgMMNw2eeGvOHUfg.jpg_/560x560.webp)',backgroundSize:'450px 450px',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }}></div>
             <div 
   
         className={slideIndex === 4 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://imagevars.gulfnews.com/2016/8/22/1_16a08234f1c.1883456_1437924656_16a08234f1c_medium.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }}></div>
+        style={{ backgroundImage:'url(https://mobinbookcity.com/Uploads/ProductImage/90b664ea-a2e1-4c8e-badc-5c4a517cb9e5.jpg)',backgroundSize:'450px 450px',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }}></div>
             <div 
   
         className={slideIndex === 4 ? 'active' : ''}
-        style={{ backgroundImage:'url(https://imagevars.gulfnews.com/2016/8/22/1_16a08234f1c.1883456_1437924656_16a08234f1c_medium.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }}></div>
+        style={{ backgroundImage:'url(https://nahang.ir/images/products/book_844109.jpg)',backgroundSize:'450px 450px',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }}></div>
     </div>
     <i onClick={handleNextSlide} class="fa fa-chevron-right"></i>
     </> );
