@@ -488,18 +488,18 @@ const Timer3 = ({trueandfalse,lable,handleMouseEnter}) => {
         className={slideIndex === 2 ? 'active' : ''}
         style={{ position:'relative',backgroundImage:'url(https://aryaartist.com/uploads/2022/11/500x500q100-B6.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }} >
           <div style={{display:'flex',width:'100%',position:'absolute',bottom:'0px',justifyContent:'center'}}><div style={{marginRight:'100px',cursor:'pointer',backgroundColor:'white'}} class="fa fa-shopping-cart fa-2x"></div>
-        <div onClick={()=>increment(8)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
-        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[8]}</span>
-        <div onClick={()=>decrement(8)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
+        <div onClick={()=>increment(6)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
+        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[6]}</span>
+        <div onClick={()=>decrement(6)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
         </div>
             <div 
   
         className={slideIndex === 2 ? 'active' : ''}
         style={{ position:'relative',backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/1294531.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }} >
           <div style={{display:'flex',width:'100%',position:'absolute',bottom:'0px',justifyContent:'center'}}><div style={{marginRight:'100px',cursor:'pointer',backgroundColor:'white'}} class="fa fa-shopping-cart fa-2x"></div>
-        <div onClick={()=>increment(9)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
-        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[9]}</span>
-        <div onClick={()=>decrement(9)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
+        <div onClick={()=>increment(7)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
+        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[7]}</span>
+        <div onClick={()=>decrement(7)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
         </div>
             <div 
   
@@ -815,63 +815,63 @@ const Timer5 = ({trueandfalse,lable,handleMouseEnter}) => {
         className={slideIndex === 0 ? 'active' : ''}
         style={{ position:'relative',backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/112092747.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }} >
           <div style={{display:'flex',width:'100%',position:'absolute',bottom:'0px',justifyContent:'center'}}><div style={{marginRight:'100px',cursor:'pointer',backgroundColor:'white'}} class="fa fa-shopping-cart fa-2x"></div>
-        <div onClick={()=>increment(7)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
-        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[7]}</span>
-        <div onClick={()=>decrement(7)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
+        <div onClick={()=>increment(0)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
+        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[0]}</span>
+        <div onClick={()=>decrement(0)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
         </div>
             <div 
   
         className={slideIndex === 0 ? 'active' : ''}
         style={{ position:'relative',backgroundImage:'url(https://aryacompany.ir/wp-content/uploads/2020/08/%D9%BE%D8%A7%D8%B2%D9%84-4%D8%A8%D8%B9%D8%AF%DB%8C-%D8%A2%D8%B1%DB%8C%D8%A7-9012.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }} >
           <div style={{display:'flex',width:'100%',position:'absolute',bottom:'0px',justifyContent:'center'}}><div style={{marginRight:'100px',cursor:'pointer',backgroundColor:'white'}} class="fa fa-shopping-cart fa-2x"></div>
-        <div onClick={()=>increment(7)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
-        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[7]}</span>
-        <div onClick={()=>decrement(7)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
+        <div onClick={()=>increment(1)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
+        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[1]}</span>
+        <div onClick={()=>decrement(1)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
         </div>
             <div 
   
         className={slideIndex === 0 ? 'active' : ''}
         style={{ position:'relative',backgroundImage:'url(https://statics.basalam.com/public-3/users/gqwWx/06-02/JzLGCQ2BCQ6megOi5coE6JsQUM5t2hFrAXMq0x03gPp5ITn8mc.jpg_512X512X70.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 0 ? 'block' : 'none' }} >
           <div style={{display:'flex',width:'100%',position:'absolute',bottom:'0px',justifyContent:'center'}}><div style={{marginRight:'100px',cursor:'pointer',backgroundColor:'white'}} class="fa fa-shopping-cart fa-2x"></div>
-        <div onClick={()=>increment(7)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
-        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[7]}</span>
-        <div onClick={()=>decrement(7)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
+        <div onClick={()=>increment(2)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
+        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[2]}</span>
+        <div onClick={()=>decrement(2)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
         </div>
             <div 
   
         className={slideIndex === 1 ? 'active' : ''}
         style={{ position:'relative',backgroundImage:'url(https://aryaland.ir/uploads/products/%D8%AE%D9%85%DB%8C%D8%B1-%D8%A8%D8%A7%D8%B2%DB%8C-%DB%B1%DB%B2-%D8%B1%D9%86%DA%AF-%D8%A2%D8%B1%DB%8C%D8%A7-%D9%85%D8%AF%D9%84-%D8%A2%D9%88%DB%8C%D8%B2-%D9%88%DA%A9%DB%8C%D9%88%D9%85%DB%8C-%D8%A8%D8%A7-%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-1.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }} >
           <div style={{display:'flex',width:'100%',position:'absolute',bottom:'0px',justifyContent:'center'}}><div style={{marginRight:'100px',cursor:'pointer',backgroundColor:'white'}} class="fa fa-shopping-cart fa-2x"></div>
-        <div onClick={()=>increment(7)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
-        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[7]}</span>
-        <div onClick={()=>decrement(7)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
+        <div onClick={()=>increment(3)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
+        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[3]}</span>
+        <div onClick={()=>decrement(3)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
         </div>
             <div 
   
         className={slideIndex === 1 ? 'active' : ''}
         style={{ position:'relative',backgroundImage:'url(https://aryaland.ir/uploads/2023/01/%D9%88%D8%A7%D8%AA%D8%B1-%D8%A7%D8%B3%D9%84%D8%A7%DB%8C%D9%85-%D8%AE%D8%B1%D8%B3%DB%8C-500-%DA%AF%D8%B1%D9%85%DB%8C-%D8%A7%D9%88%D9%88%D8%AF%DB%8C-2-.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }} >
           <div style={{display:'flex',width:'100%',position:'absolute',bottom:'0px',justifyContent:'center'}}><div style={{marginRight:'100px',cursor:'pointer',backgroundColor:'white'}} class="fa fa-shopping-cart fa-2x"></div>
-        <div onClick={()=>increment(7)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
-        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[7]}</span>
-        <div onClick={()=>decrement(7)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
+        <div onClick={()=>increment(4)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
+        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[4]}</span>
+        <div onClick={()=>decrement(4)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
         </div>
             <div 
   
         className={slideIndex === 1 ? 'active' : ''}
         style={{ position:'relative',backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/120405570.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 1 ? 'block' : 'none' }} >
           <div style={{display:'flex',width:'100%',position:'absolute',bottom:'0px',justifyContent:'center'}}><div style={{marginRight:'100px',cursor:'pointer',backgroundColor:'white'}} class="fa fa-shopping-cart fa-2x"></div>
-        <div onClick={()=>increment(7)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
-        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[7]}</span>
-        <div onClick={()=>decrement(7)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
+        <div onClick={()=>increment(5)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
+        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[5]}</span>
+        <div onClick={()=>decrement(5)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
         </div>
             <div 
   
         className={slideIndex === 2 ? 'active' : ''}
         style={{ position:'relative',backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/112453680.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }} >
           <div style={{display:'flex',width:'100%',position:'absolute',bottom:'0px',justifyContent:'center'}}><div style={{marginRight:'100px',cursor:'pointer',backgroundColor:'white'}} class="fa fa-shopping-cart fa-2x"></div>
-        <div onClick={()=>increment(7)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
-        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[7]}</span>
-        <div onClick={()=>decrement(7)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
+        <div onClick={()=>increment(6)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
+        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[6]}</span>
+        <div onClick={()=>decrement(6)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
         </div>
             <div 
   
@@ -887,63 +887,63 @@ const Timer5 = ({trueandfalse,lable,handleMouseEnter}) => {
         className={slideIndex === 2 ? 'active' : ''}
         style={{ position:'relative',backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/b790001a4c28f05aa4b11b94e005adb5fdef780f_1633017567.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 2 ? 'block' : 'none' }} >
           <div style={{display:'flex',width:'100%',position:'absolute',bottom:'0px',justifyContent:'center'}}><div style={{marginRight:'100px',cursor:'pointer',backgroundColor:'white'}} class="fa fa-shopping-cart fa-2x"></div>
-        <div onClick={()=>increment(7)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
-        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[7]}</span>
-        <div onClick={()=>decrement(7)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
+        <div onClick={()=>increment(8)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
+        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[8]}</span>
+        <div onClick={()=>decrement(8)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
         </div>
             <div 
   
         className={slideIndex === 3 ? 'active' : ''}
         style={{ position:'relative',backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/119885487.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }}>
           <div style={{display:'flex',width:'100%',position:'absolute',bottom:'0px',justifyContent:'center'}}><div style={{marginRight:'100px',cursor:'pointer',backgroundColor:'white'}} class="fa fa-shopping-cart fa-2x"></div>
-        <div onClick={()=>increment(7)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
-        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[7]}</span>
-        <div onClick={()=>decrement(7)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
+        <div onClick={()=>increment(9)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
+        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[9]}</span>
+        <div onClick={()=>decrement(9)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
         </div>
             <div 
   
         className={slideIndex === 3 ? 'active' : ''}
         style={{ position:'relative',backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/2691586.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }}>
           <div style={{display:'flex',width:'100%',position:'absolute',bottom:'0px',justifyContent:'center'}}><div style={{marginRight:'100px',cursor:'pointer',backgroundColor:'white'}} class="fa fa-shopping-cart fa-2x"></div>
-        <div onClick={()=>increment(7)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
-        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[7]}</span>
-        <div onClick={()=>decrement(7)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
+        <div onClick={()=>increment(10)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
+        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[10]}</span>
+        <div onClick={()=>decrement(10)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
         </div>
             <div 
   
         className={slideIndex === 3 ? 'active' : ''}
         style={{ position:'relative',backgroundImage:'url(https://hyperzi.ir/wp-content/uploads/2020/12/Atena-20-piece-circular-puzzle-14.jpeg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 3 ? 'block' : 'none' }}>
           <div style={{display:'flex',width:'100%',position:'absolute',bottom:'0px',justifyContent:'center'}}><div style={{marginRight:'100px',cursor:'pointer',backgroundColor:'white'}} class="fa fa-shopping-cart fa-2x"></div>
-        <div onClick={()=>increment(7)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
-        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[7]}</span>
-        <div onClick={()=>decrement(7)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
+        <div onClick={()=>increment(11)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
+        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[11]}</span>
+        <div onClick={()=>decrement(11)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
         </div>
             <div 
   
         className={slideIndex === 4 ? 'active' : ''}
         style={{ position:'relative',backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/121791091.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }}>
           <div style={{display:'flex',width:'100%',position:'absolute',bottom:'0px',justifyContent:'center'}}><div style={{marginRight:'100px',cursor:'pointer',backgroundColor:'white'}} class="fa fa-shopping-cart fa-2x"></div>
-        <div onClick={()=>increment(7)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
-        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[7]}</span>
-        <div onClick={()=>decrement(7)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
+        <div onClick={()=>increment(12)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
+        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[12]}</span>
+        <div onClick={()=>decrement(12)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
         </div>
             <div 
   
         className={slideIndex === 4 ? 'active' : ''}
         style={{ position:'relative',backgroundImage:'url(https://dkstatics-public.digikala.com/digikala-products/1633519.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }}>
           <div style={{display:'flex',width:'100%',position:'absolute',bottom:'0px',justifyContent:'center'}}><div style={{marginRight:'100px',cursor:'pointer',backgroundColor:'white'}} class="fa fa-shopping-cart fa-2x"></div>
-        <div onClick={()=>increment(7)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
-        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[7]}</span>
-        <div onClick={()=>decrement(7)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
+        <div onClick={()=>increment(13)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
+        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[13]}</span>
+        <div onClick={()=>decrement(13)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
         </div>
             <div 
   
         className={slideIndex === 4 ? 'active' : ''}
         style={{ position:'relative',backgroundImage:'url(https://shazdehkoochulo.com/media/catalog/product/md_146e8_%D8%A8%D8%B1%D8%AC_%D9%87%DB%8C%D8%AC%D8%A7%D9%86.jpg)',backgroundSize:'cover',backgroundRepeat:'no-repeat',display: slideIndex === 4 ? 'block' : 'none' }}>
           <div style={{display:'flex',width:'100%',position:'absolute',bottom:'0px',justifyContent:'center'}}><div style={{marginRight:'100px',cursor:'pointer',backgroundColor:'white'}} class="fa fa-shopping-cart fa-2x"></div>
-        <div onClick={()=>increment(7)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
-        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[7]}</span>
-        <div onClick={()=>decrement(7)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
+        <div onClick={()=>increment(14)} className='positive' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>+</div>
+        <span style={{paddingRight:'5px',paddingLeft:'5px',backgroundColor:'white',paddingTop:'12px'}}>{count[14]}</span>
+        <div onClick={()=>decrement(14)} className='negative' style={{fontSize:35,paddingRight:'20px',paddingLeft:'20px',cursor:'pointer'}}>-</div></div>
         </div>
     </div>
     <i onClick={handleNextSlide} class="fa fa-chevron-right"></i>
